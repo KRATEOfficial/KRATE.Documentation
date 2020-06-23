@@ -1,1 +1,3 @@
-# Krate.Documentation
+# KRATE.Documentation
+
+Application manuals and technical papers.
